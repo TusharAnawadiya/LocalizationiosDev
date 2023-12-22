@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationiosDev
+
+  Created by Arti on 11/10/23.
+  
+*/
+"label1Key" = "First Name";
+"label2Key" = "Last Name";

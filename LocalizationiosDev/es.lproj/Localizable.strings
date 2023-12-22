@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationiosDev
+
+  Created by Arti on 11/10/23.
+  
+*/
+"label1Key" = "nombre de pila";
+"label2Key" = "apellido";
